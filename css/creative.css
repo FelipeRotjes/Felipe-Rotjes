@@ -9730,3 +9730,32 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+.bio{
+  width: 50%;
+  height: 100vh;
+  background-image: url("");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position-x: center;
+  background-position-y: center;
+  background-color: transparent;
+}
+
+.bio-tittle{
+  color:black;
+  font-size: 2.5rem;
+  width: 100%;
+
+}
+
+.text-bio-1{
+  color:black;
+  font-size: 1.6rem;
+  text-align: justify;
+}
+.contact-text-4{
+  color:black;
+  font-size: 24px;
+}
